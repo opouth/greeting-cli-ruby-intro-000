@@ -1,6 +1,6 @@
 # code the #greeting method here!
 #gets.strip
-name = stdin.gets.strip
+name = STDIN.gets.strip
 def greeting(name)
   puts "Hello #{name}. It's nice to meet you."
 end
